@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/project_twl_funick/static/css/main.93dfb807.css",
-    "main.js": "/project_twl_funick/static/js/main.008b365c.js",
+    "main.js": "/project_twl_funick/static/js/main.1b4eca54.js",
     "static/js/787.a9f0eb40.chunk.js": "/project_twl_funick/static/js/787.a9f0eb40.chunk.js",
     "index.html": "/project_twl_funick/index.html",
     "main.93dfb807.css.map": "/project_twl_funick/static/css/main.93dfb807.css.map",
-    "main.008b365c.js.map": "/project_twl_funick/static/js/main.008b365c.js.map",
+    "main.1b4eca54.js.map": "/project_twl_funick/static/js/main.1b4eca54.js.map",
     "787.a9f0eb40.chunk.js.map": "/project_twl_funick/static/js/787.a9f0eb40.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93dfb807.css",
-    "static/js/main.008b365c.js"
+    "static/js/main.1b4eca54.js"
   ]
 }
